@@ -1,0 +1,176 @@
+{
+  "main": {
+    "name":"Ebuzer Yalcın",
+    "description":"Full Stack Developer",
+    "image":"profilecircle.png",
+    "bio":"Innovative Fullstack developer with 1,5 years of experience building and maintaining responsive websites. Proficient in HTML5, CSS3, JavaScript,Reactjs, Python; plus modern libraries and frameworks.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "yalcinebuzer@gmail.com",
+    "phone": "+46739547629",
+    "github":"https://github.com/ebuzeryalcin",
+    "address":{
+      "city":"Stockholm"
+    
+    },
+    "website": "https://ebuzeryalcin.github.io/portfolio-react/",
+    "resumedownload":"myresume.pdf",
+    "social":[
+    
+      {
+        "name":"linkedin",
+        "url":"www.linkedin.com/in/ebuzer-yalcin-9b314511",
+        "className":"fa fa-linkedin"
+      },
+   
+      {
+        "name":"github",
+        "url":"https://github.com/ebuzeryalcin",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+   
+    "education":[
+      {
+        "school":"Code Institute",
+        "degree":"Full Stack Developer",
+        "graduated":"June 2020- June2021",
+        "description":"Software Development"
+      },
+      {
+        "school":"Södertörn University",
+        "degree":"Bachelor Degree",
+        "graduated":"June 2012",
+        "description":"Economics"
+      }
+    ],
+    "work":[
+      {
+        "company":"Unionen Unemployment Insurance",
+        "title":"Application Specialist",
+        "years":"November 2020 - current / Stockholm, Sweden",
+        "description":
+        "Working with the application specialist team to operate and maintain,company systems and applications,Application manager of company's Chatbot system. " 
+      },
+      {
+        "company":"Unionen Unemployment Insurance",
+        "title":"Case Worker",
+        "years":"December 2017 - October 2020 / Stockholm, Sweden",
+        "description":"A combination of membership advisor and Technical Support"
+      },
+      {
+        "company":"Swedish Customs",
+        "title":"Customs officer",
+        "years":"August 2016 - June 2017 / Arlanda, Sweden",
+        "description":"Main tasks at the workplace were to check and administrate customs declarations of both private persons, companies and custom agents."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"Django",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"70%"
+      },
+      {
+        "name":"API",
+        "level":"65%"
+      },
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstrap",
+        "level":"75%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"65%"
+      },
+      {
+        "name":"NextJs",
+        "level":"50%"
+      }
+    
+    
+    ]
+    
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"archive-mockup",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"archive-mockup.PNG",
+        "url":"https://ebuyal-archive.herokuapp.com/     https://designlilo.netlify.app"
+      },
+      {
+        "title":"designlilo",
+        "category":"Design Lilo",
+        "image":"designlilo.png",
+        "url":"https://designlilo.netlify.app"
+      },
+      {
+        "title":"yumi travelling",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"responsive-yumi.png",
+        "url":"https://ebuzeryalcin.github.io/Yumi-Travelling-Quiz-MS2/"
+      },
+      {
+        "title":"Mole Game",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"mole-game.PNG",
+        "url":"https://ebuzeryalcin.github.io/MoleGame/"
+      },
+      {
+        "title":"Travellers Website",
+        "category":"A React based resume website template",
+        "image":"travellers-responsive-display.PNG",
+        "url":"https://github.com/ebuzeryalcin/Travellers"
+      },
+      {
+        "title":"Software school",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"software.png",
+        "url":"https://ebuzeryalcin.github.io/Software-school-MS1/"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"mytranslationapp.png",
+        "url":"https://mytranslation-app.netlify.app/"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"resume-img.png",
+        "url":"https://ebuzeryalcin.github.io/portfolio-react/"
+      }
+     
+    ]
+  }
+}
